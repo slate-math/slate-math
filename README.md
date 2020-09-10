@@ -1,2 +1,2 @@
 # slate-math
-A repository for the slate-math equation editor library.
+A plugin for SlateJS to render math equations.
